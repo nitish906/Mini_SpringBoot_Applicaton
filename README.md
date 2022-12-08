@@ -8,7 +8,7 @@
 
 ## 4. Product Advance Application
 
-## 5. EmployeeDetails Application
+## 5. Course Mangment Application 
 
 ## 6. Employee Managment System
 
